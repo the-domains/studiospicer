@@ -1,7 +1,7 @@
 name: StudioSpicer
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.42202
+layout_spectrum: 0.33398
+typography_spectrum: 0.55599
 title: Studio Spicer Architects
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#fffeff'
     - '#a99685'
     - '#dac0a7'
-  brandStrength: 0.6016043003182858
-  lightness: 0.03607208118773997
-  saturation: 0.3073359748814255
-  rhythmicContrast: 0.8012843469623476
+  brandStrength: 0.625
+  lightness: 1
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
