@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[StudioSpicer]]></title>
+        <description><![CDATA[StudioSpicer]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 24 Feb 2016 08:07:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Studio Spicer Architects]]></title>
+            <description><![CDATA[<article><h1>Studio Spicer Architects</h1><p>Our understanding of architecture and the built environment has been heavily informed from working with existing buildings, repairing, altering and remoulding existing physical forms, set in an existing context. Understanding how buildings and their form and mass, set in human environments, has informed the approach to crafting and producing a new intervention to our existing physical landscape.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cc08e9ed10da64771d5ad85b980db08e01228a4f.jpg"></article>]]></description>
+            <link>undefinedstudio-spicer-architects/index.html</link>
+            <guid isPermaLink="false">52997b99-b215-4ee2-8a91-bffe43da4436</guid>
+            <pubDate>Wed, 24 Feb 2016 08:07:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
