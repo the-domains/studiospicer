@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Home Page
-datePublished: '2016-02-26T01:05:01.512Z'
-dateModified: '2016-02-26T01:04:59.535Z'
+datePublished: '2016-02-26T01:39:08.537Z'
+dateModified: '2016-02-26T01:05:10.915Z'
 title: Studio Spicer
 author: []
 sourcePath: _posts/2016-02-25-studio-spicer.md
