@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[StudioSpicer]]></title>
         <description><![CDATA[StudioSpicer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/studiospicer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 00:45:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 26 Feb 2016 01:10:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/studiospicer/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Domestic]]></title>
-            <description><![CDATA[<article><h1>Domestic</h1><p>Loxley Road</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/12725e00-6a44-4211-aaa4-377521b9247c.jpg"></article>]]></description>
-            <link>undefineddomestic/index.html</link>
+            <description><![CDATA[<article><h1>Domestic</h1><p>Commercial Properties</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a86b59c5-9842-4880-94c7-8fdb44485b36.jpg"></article>]]></description>
+            <link>https://thegrid.ai/studiospicer/domestic/index.html</link>
             <guid isPermaLink="false">12c30b4d-04e3-4638-8aed-d9f9a0633159</guid>
-            <pubDate>Fri, 26 Feb 2016 00:11:57 GMT</pubDate>
+            <pubDate>Fri, 26 Feb 2016 01:08:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
